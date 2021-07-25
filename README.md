@@ -1,8 +1,8 @@
-# Project in react native using the THEMOVIEDB API (I have not been able to verify if it looks or works correctly on iOS).
+# Project in react native using the POKEAPI (I have not been able to verify if it looks or works correctly on iOS).
 
 ## URL API
 
-The URL is [THEMOVIEDB](https://developers.themoviedb.org/3).
+The URL is [POKEAPI](https://pokeapi.co/docs/v2).
 
 
 ## Commands
@@ -11,7 +11,3 @@ The URL is [THEMOVIEDB](https://developers.themoviedb.org/3).
 |----------|:-------------:|
 | Android |  npm run android |
 | iOS |    npm run ios   |
-
-
-
-
